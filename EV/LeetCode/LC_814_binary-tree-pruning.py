@@ -2,6 +2,7 @@
     runtime: 34 ms Beats 58.63%
     memory: 13.7 MB Beats 96.36%
 '''
+
 class Solution:
     def pruneTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         def dfs(node):
