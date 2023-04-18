@@ -1,6 +1,6 @@
 '''
-    runtime: 254 ms Beats 11.5%
-    memory: 14.2 MB Beats 94.25%
+    runtime: 254 ms Beats 11.5 %
+    memory: 14.2 MB Beats 94.25 %
 '''
 
 class Solution:
