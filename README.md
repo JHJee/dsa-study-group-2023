@@ -6,7 +6,7 @@ Updated every few days or weekly.
 <br>
 
 # Members
-@JHJee @chadireoroonu
+@evelyjhc @chadireoroonu
 
 # Weekly Roadmap
 1. Recursion (재귀)
