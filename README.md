@@ -2,11 +2,10 @@
 
 This repository contains our solutions to DSA coding problems.
 Updated every few days or weekly.
-
 <br>
 
 # Members
-@evelyjhc @chadireoroonu
+@evelynjhc @chadireoroonu
 
 # Weekly Roadmap
 1. Recursion (재귀)
